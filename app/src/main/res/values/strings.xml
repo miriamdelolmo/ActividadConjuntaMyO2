@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActividadConjuntaMyO</string>
+    <string-array name="opciones">
+        <item>Ácidas</item>
+        <item>Semiácidas</item>
+        <item>Dulces</item>
+        <item>Semidulces</item>
+        <item>Neutras</item>
+
+    </string-array>
+</resources>
